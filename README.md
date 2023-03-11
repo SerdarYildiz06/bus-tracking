@@ -1,16 +1,2 @@
-# ego_asistan
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 14 Pro - 2023-03-12 at 00 47 45](https://user-images.githubusercontent.com/72278145/224512894-0734fd3c-b01c-48a8-bb0d-d34c815d3094.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-03-12 at 00 47 54](https://user-images.githubusercontent.com/72278145/224512901-039a9513-4181-4c92-bcf0-a3fec42323b0.png)
